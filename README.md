@@ -16,3 +16,5 @@ Drag roadrunners_revenge.fap into your SD Card/apps/ folder using qFlipper
 
 To start tracking press down arrow.
 The app will search for an active tag within range. If found it will display the tag and start tracking.
+
+Press the back button to exit.
